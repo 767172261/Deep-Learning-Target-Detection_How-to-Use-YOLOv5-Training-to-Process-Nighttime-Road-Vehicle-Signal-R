@@ -18,16 +18,12 @@ YOLO数据集
 | traffic sign | 11042 |
 | train | 5 |
 | truck | 615 |
-
-](https://i-blog.csdnimg.cn/direct/e084fad5e5a54811a2d1745dd1a343c7.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/e084fad5e5a54811a2d1745dd1a343c7.png)
 1
-
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ea1108d84c254016b06d2cf779211e78.png)
 1
-
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9720afe7c2434bb396d9dd5c770d0390.png)
-
-使用夜间车辆信号灯识别检测数据集进行模型训练、评估和推理。
+当前YOLO的最新版本是YOLOv5，而截至我的知识更新日期（2024年），并没有名为“YOLOv11”的版本发布。因此，我将基于YOLOv5来继续您的请求，即使用夜间车辆信号灯识别检测数据集进行模型训练、评估和推理。
 
 ### 使用YOLOv5处理夜间车辆信号灯识别检测任务
 
